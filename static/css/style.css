@@ -162,6 +162,15 @@ textarea {
 .search-logo.google, li.google {
     background-image: url("./img/scgoogle.png");
 }
+.search-logo.yandex, li.yandex {
+    background-image: url("./img/scyandex.png");
+}
+.search-logo.chinaz, li.chinaz {
+    background-image: url("./img/scchinaz.png");
+}
+.search-logo.aizhan, li.aizhan {
+    background-image: url("./img/scaizhan.png");
+}
 
 .search-methods .search-item:hover {
     background-color: #f0f0f0;

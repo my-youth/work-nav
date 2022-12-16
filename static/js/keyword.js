@@ -18,8 +18,11 @@ $(function () {
   var search_types = [
     { url: 'https://www.baidu.com/s?wd=', type: 'baidu' },
     { url: 'https://www.sogou.com/web?query=', type: 'sogou' },
+    { url: 'https://yandex.com/search/?text=', type: 'yandex' },
     { url: 'https://cn.bing.com/search?q=', type: 'bing' },
+    { url: 'https://ping.chinaz.com/', type: 'chinaz' },
     { url: 'https://www.so.com/s?q=', type: 'so' },
+    { url: 'https://icp.aizhan.com/', type: 'aizhan' },
     { url: 'https://www.google.com/search?q=', type: 'google' },
     { url: 'http://www.cilimao.cc/search?word=', type: 'cili' },
     { url: 'http://neets.cc/search?key=', type: 'yingyin' },
