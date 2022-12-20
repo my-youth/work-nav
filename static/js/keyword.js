@@ -23,7 +23,7 @@ $(function () {
     { url: 'https://ping.chinaz.com/', type: 'chinaz' },
     { url: 'https://www.so.com/s?q=', type: 'so' },
     { url: 'https://icp.aizhan.com/', type: 'aizhan' },
-    { url: 'https://www.google.com/search?q=', type: 'google' },
+    { url: 'https://google.mirrors.pw/search?q', type: 'google' },
     { url: 'http://www.cilimao.cc/search?word=', type: 'cili' },
     { url: 'http://neets.cc/search?key=', type: 'yingyin' },
     { url: 'http://www.panduoduo.net/s/name/', type: 'wangpan' },
