@@ -23,7 +23,7 @@ a {
     text-decoration: none
 }
 html, body {
-    background-image: url('https://bing.ioliu.cn/v1/blur?w=1920&h=1080');/*https://s1.ax1x.com/2022/12/16/zHpTsK.jpg  https://bing.ioliu.cn/v1/?w=1920&h=1080*/
+    background-image: url('https://api.dujin.org/bing/1920.php');/*https://s1.ax1x.com/2022/12/16/zHpTsK.jpg  https://bing.ioliu.cn/v1/?w=1920&h=1080*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
